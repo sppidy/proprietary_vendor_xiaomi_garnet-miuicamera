@@ -14,4 +14,6 @@
 # limitations under the License.
 #
 
+BOARD_VENDOR_SEPOLICY_DIRS += vendor/xiaomi/garnet-miuicamera/sepolicy/vendor
+
 include vendor/xiaomi/garnet-miuicamera/common/BoardConfigVendor.mk
